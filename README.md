@@ -1,5 +1,7 @@
 # The Odin Project - Etch-a-Sketch
 
+[Live project link.](https://rungmc.github.io/etch-a-sketch/)
+
 ## Goal
 
 To demonstrate a basic grasp of HTML/CSS/JS/DOM by building something vaguely resembling an Etch-a-Sketch.
